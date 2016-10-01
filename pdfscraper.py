@@ -10,7 +10,7 @@ import re
 import sys
 import json
 
-files = open("V1.txt", "r")
+files = open("PDFfileslist.txt", "r")
 files = files.readlines()
 files = map(lambda s: s.strip(), files)
 print files
