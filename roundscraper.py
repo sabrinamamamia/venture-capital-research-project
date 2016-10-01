@@ -310,11 +310,3 @@ for a in files:
         scrape(6)
         scrape(7)
         scrape(8)
-
-
-
-
-    
-
-
-
