@@ -1,2 +1,3 @@
 # venture-capital-research-project
-Script used to scrape/parse VC contract data for the McDonough School of Business Undergraduate Research Fellowship
+
+These are scripts I made to scrape and parse venture capital contract data from a VC Experts database and export to CSV. 
